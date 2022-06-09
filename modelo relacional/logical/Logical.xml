@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="E2D7D779-D37D-8F12-65B3-889D2A6E7D20" mainViewID="E1AE5038-C5BE-A347-0849-17D9DE4AB5BD">
+<createdBy>fdelarco DAW</createdBy>
+<createdTime>2022-06-02 18:21:06 UTC</createdTime>
+<ownerDesignName>modelo relacional</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

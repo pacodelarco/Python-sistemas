@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="34B2F831-83EA-28A3-FC76-9CA2033152D2">
+<createdBy>fdelarco DAW</createdBy>
+<createdTime>2022-06-02 18:21:06 UTC</createdTime>
+<ownerDesignName>modelo relacional</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

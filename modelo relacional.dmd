@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo relacional" id="3012E40E-C17A-0698-6D8C-FE3A01E93152" version="3.5">
+<createdBy>fdelarco DAW</createdBy>
+<createdTime>2022-06-02 18:21:06 UTC</createdTime>
+<ownerDesignName>modelo relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3012E40E-C17A-0698-6D8C-FE3A01E93152</designId>
+</OSDM_Design>
